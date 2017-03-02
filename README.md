@@ -25,4 +25,4 @@ Institute, name, semester, business_organization_minor, business_organization_ma
 Create an issue in the github repo. And share the link of pdf. If I have time I will try my best to fix the issue.
 
 # Thanks
-If you wanna thank. It should go to my wife, who  basically forced me to do it. You can thank her.
+You are welcome
